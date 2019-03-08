@@ -6,11 +6,19 @@
 
 #IncludeRegexTransform: 
 
+/home/hy/testOpenCV/NonNorm.h
+opencv2/opencv.hpp
+-
+iostream
+-
+
 /home/hy/testOpenCV/mainTest.cpp
 iostream
 -
 opencv2/opencv.hpp
 -
+NonNorm.h
+/home/hy/testOpenCV/NonNorm.h
 
 /usr/local/include/opencv2/calib3d/calib3d.hpp
 opencv2/core/core.hpp
